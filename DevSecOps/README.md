@@ -1,6 +1,6 @@
 # End to End DevSecOps Project for DevOps Engineers
 
-### In this project, we will learn about  DevOps and DevSecOps tools in one project:
+### In this project, we will learn about  DevOps and DevSecOps tools in one project
 
 ### Tools Covered:
 -  Linux
